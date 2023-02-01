@@ -9,7 +9,7 @@ A (cute) minimal socials page written in HTML.
 > The branches below are intended to be used for [is-cute](https://github.com/is-cute).
 
 > **Note**  
-> Inactive instances direct back to an active instance.
+> Inactive instances direct back to an active instance. *The most active instance will always be found [here](https://derpie.is-cute.moe).*
 
 | Branch                                                               | Instance URL               | Active |
 | :------------------------------------------------------------------- | :------------------------- | :----- |
@@ -19,4 +19,4 @@ A (cute) minimal socials page written in HTML.
 ### Static Hosting with GitHub Pages
 Clone and deploy one of the available branches as a static HTML page under GitHub Pages. No workflows are required.
 
-If you are using a custom domain, you'll need to change the [`CNAME`](https://github.com/is-cute/is-cute.github.io/blob/bocchi/CNAME) file to reflect it.
+If you are using a custom domain, you'll need to change the `CNAME` file to reflect it.
